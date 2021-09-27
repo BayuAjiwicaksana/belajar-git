@@ -6,4 +6,6 @@ ini diedit oleh : main
 
 posisi 1
 
-posisi 2
+posisi 2 setelah revert
+
+posisi 3
